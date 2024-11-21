@@ -13,7 +13,7 @@ push:
 
     jobs:
       build:
-        run-on: Ubuntu-lts
+        run-on: Ubuntu-latest
 
 
         steps:
